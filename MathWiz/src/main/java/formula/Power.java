@@ -25,4 +25,3 @@ public class Power implements Formula {
         return new Multiplication(new Multiplication(exponent, new Power(base, new Subtraction(exponent, new Constant(1)))), baseDerivative);
     }
 }
-
