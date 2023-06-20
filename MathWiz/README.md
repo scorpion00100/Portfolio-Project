@@ -126,6 +126,7 @@ The project has the following dependencies:
 ## Author
 
 This project was created by [IRYIVUZE DAN BETHEL].
+MAil: danbetheliryivuze@gmail.com
 
 For more information, please refer to the project documentation.
 
