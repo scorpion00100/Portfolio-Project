@@ -11,7 +11,7 @@ public class Constant implements Formula {
   }
 
   /**
-   * Compute the value of the formula
+   * Compute value of the formula
    *
    * @param xValue the value of the variable x
    * @return the value of the function when the variable x has value {@code xValue}
