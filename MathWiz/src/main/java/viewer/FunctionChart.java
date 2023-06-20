@@ -43,3 +43,4 @@ class FunctionChart extends LineChart<Number, Number> {
     }
   }
 }
+
