@@ -19,7 +19,7 @@ public class SquareRoot implements Formula {
 
     @Override
     public Formula derivative() {
-        // Calculating the derivative of a square root function requires the chain rule
+        // Calculating the derivative of a squareroot function requires the chain rule
         Formula derivativeValue = value.derivative();
         Formula denominator = new Multiplication(new Constant(2), new SquareRoot(value));
         return new Division(derivativeValue, denominator);
