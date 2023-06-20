@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConstantTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-20T11:15:52" hostname="dan001-Legion-5-15ACH6A" time="0.041">
+  <properties/>
+  <testcase name="testDerivative()" classname="ConstantTest" time="0.035"/>
+  <testcase name="testEval()" classname="ConstantTest" time="0.001"/>
+  <testcase name="testToString()" classname="ConstantTest" time="0.002"/>
+  <testcase name="testEquals()" classname="ConstantTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
