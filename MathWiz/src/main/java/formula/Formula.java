@@ -12,7 +12,7 @@ public interface Formula {
 
   /**
    * Compute a {@code String} representation of the formula.
-   * @return the formula as a {@code String}
+   * @return formula as a {@code String}
    */
   String toString();
 
