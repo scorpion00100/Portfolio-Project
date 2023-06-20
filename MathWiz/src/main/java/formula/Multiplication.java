@@ -15,7 +15,7 @@ public class Multiplication extends BinaryOperator{
     /**
      * Compute the derivative of the formula.
      *
-     * @return the derivative of the formula
+     * @return derivative of the formula
      */
     @Override
     public Formula derivative() {
